@@ -17,3 +17,4 @@ anc.p <- phangorn::ancestral.pars(tree, cleaned.discrete.phyDat)
 plotAnc(tree, anc.p, 2)
 anc.ml <- ancestral.pml(pml(tree, cleaned.discrete.phyDat), type="ml")
 plotAnc(tree, anc.ml, 2)
+#hi
