@@ -8,7 +8,7 @@ Axel
     library(geiger)
     library(phangorn)
 
-comment2
+comment hey
 
     tree <- read.tree("RAxML_parsimonyTree.Chryso_CO1_GTRCAT_2")
     tree$edge
