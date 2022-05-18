@@ -1,14 +1,23 @@
-Untitled
+Chrysobothris species distribution
 ================
-Axel
+Axel Gonzalez
 2022-05-18
+
+We first load the packages necessary for this job
 
     library(ape)
     library(phytools)
     library(geiger)
     library(phangorn)
 
-comment hey
+We loaded and named the tree. We are particularly interested on know
+more about the distribution of Chrysobothris species compared with other
+closely related beetles. Chrysobothris femorata, and C. rugosiceps ara
+more common on the eastern US compared to C. mali from western US and C.
+neotexana from the south US. We also add Anoplophora glabripennis (Asian
+long horned beetle) and Agrilus liragus as a reference species.
+
+We plot a map using maximum parsimony likelihood.
 
     tree <- read.tree("RAxML_parsimonyTree.Chryso_CO1_GTRCAT_2")
     tree$edge
