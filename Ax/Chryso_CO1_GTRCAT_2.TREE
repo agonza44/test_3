@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><nex:nexml xmlns:nex="http://www.nexml.org/2009" xmlns="http://www.nexml.org/2009" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generator="org.nexml.model.impl.DocumentImpl" version="0.9">
+  <otus id="otus81">
+    <otu id="otu91" label="MF805332.1_Agrilus_liragus_voucher_CNCCOLVG00005901"/>
+    <otu id="otu98" label="KJ159155.1_Chrysobothris_neotexana"/>
+    <otu id="otu101" label="KX283168.1_Chrysobothris_mali_voucher_RGF16610"/>
+    <otu id="otu110" label="Chrysobothris_rugosiceps_voucher_BIOUG02913_D04"/>
+    <otu id="otu115" label="Chrysobothris_femorata_voucher_BIOUG00990_F11"/>
+    <otu id="otu120" label="Chrysobothris_femorata_BIOUG11578_D11"/>
+    <otu id="otu123" label="Chrysobothris_femorata_BIOUG_CAN_10PCCOL_0693"/>
+    <otu id="otu146" label="Anoplophora_glabripennis"/>
+  </otus>
+  <trees id="trees82" otus="otus81">
+    <tree about="#tree83" id="tree83" label="[1]Tree1" xsi:type="nex:FloatTree">
+      <meta content="angle:0.0 scaleX:145.83333 scaleY:83.14286 flipH:0 flipV:0 leftMargin:587 rightMargin:587 topMargin:391 bottomMargin:391;" datatype="xsd:string" id="meta159" property="trans" xsi:type="nex:LiteralMeta"/>
+      <meta content="" datatype="xsd:string" id="meta158" property="collapsed" xsi:type="nex:LiteralMeta"/>
+      <meta content="false" datatype="xsd:boolean" id="meta157" property="radiallabels" xsi:type="nex:LiteralMeta"/>
+      <meta content="true" datatype="xsd:boolean" id="meta156" property="sparselabels" xsi:type="nex:LiteralMeta"/>
+      <meta content="false" datatype="xsd:boolean" id="meta155" property="toscale" xsi:type="nex:LiteralMeta"/>
+      <meta content="RectangularCladogram" datatype="xsd:string" id="meta154" property="drawer" xsi:type="nex:LiteralMeta"/>
+      <meta content="true" datatype="xsd:boolean" id="meta153" property="embellished" xsi:type="nex:LiteralMeta"/>
+      <meta content="node86" datatype="xsd:string" id="meta152" property="root" xsi:type="nex:LiteralMeta"/>
+      <meta content=" fg=0 0 0 w=1 sh=1 dr=1 lc=0 0 0 lk=null lx=0 ly=0 ll=11 lv=1;" datatype="xsd:string" id="meta85" property="default_edge_format" xsi:type="nex:LiteralMeta"/>
+      <meta content=" nh=2 nw=2 fg=0 0 0 bg=255 255 255 w=1 sh=0 fx=1 lc=0 0 0 lk=null lx=0 ly=0 ll=7 lv=1;" datatype="xsd:string" id="meta84" property="default_node_format" xsi:type="nex:LiteralMeta"/>
+      <node about="#node86" id="node86">
+        <meta content=" x=-6.0 y=5.171875 ll=3;" datatype="xsd:string" id="meta87" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node88" id="node88">
+        <meta content=" x=-5.0 y=2.34375;" datatype="xsd:string" id="meta89" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node90" id="node90" label="MF805332.1_Agrilus_liragus_voucher_CNCCOLVG00005901" otu="otu91">
+        <meta content=" x=0.0 y=1.0;" datatype="xsd:string" id="meta92" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node93" id="node93">
+        <meta content=" x=-4.0 y=3.6875;" datatype="xsd:string" id="meta94" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node95" id="node95">
+        <meta content=" x=-1.0 y=2.5;" datatype="xsd:string" id="meta96" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node97" id="node97" label="KJ159155.1_Chrysobothris_neotexana" otu="otu98">
+        <meta content=" x=0.0 y=2.0;" datatype="xsd:string" id="meta99" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node100" id="node100" label="KX283168.1_Chrysobothris_mali_voucher_RGF16610" otu="otu101">
+        <meta content=" x=0.0 y=3.0;" datatype="xsd:string" id="meta102" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node107" id="node107">
+        <meta content=" x=-3.0 y=4.875;" datatype="xsd:string" id="meta108" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node109" id="node109" label="Chrysobothris_rugosiceps_voucher_BIOUG02913_D04" otu="otu110">
+        <meta content=" x=0.0 y=4.0;" datatype="xsd:string" id="meta111" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node112" id="node112">
+        <meta content=" x=-2.0 y=5.75;" datatype="xsd:string" id="meta113" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node114" id="node114" label="Chrysobothris_femorata_voucher_BIOUG00990_F11" otu="otu115">
+        <meta content=" x=0.0 y=5.0;" datatype="xsd:string" id="meta116" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node117" id="node117">
+        <meta content=" x=-1.0 y=6.5;" datatype="xsd:string" id="meta118" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node119" id="node119" label="Chrysobothris_femorata_BIOUG11578_D11" otu="otu120">
+        <meta content=" x=0.0 y=6.0;" datatype="xsd:string" id="meta121" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node122" id="node122" label="Chrysobothris_femorata_BIOUG_CAN_10PCCOL_0693" otu="otu123">
+        <meta content=" x=0.0 y=7.0;" datatype="xsd:string" id="meta124" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <node about="#node145" id="node145" label="Anoplophora_glabripennis" otu="otu146">
+        <meta content=" x=0.0 y=8.0;" datatype="xsd:string" id="meta147" property="format" xsi:type="nex:LiteralMeta"/>
+      </node>
+      <edge about="#edge103" id="edge103" length="0.10539648678065144" source="node95" target="node97">
+        <meta content=" ip= &lt; -1.0 2.0&gt; dr=1;" datatype="xsd:string" id="meta104" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge105" id="edge105" length="0.0019968226216629035" source="node95" target="node100">
+        <meta content=" ip= &lt; -1.0 3.0&gt; dr=1;" datatype="xsd:string" id="meta106" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge125" id="edge125" length="1.00000050002909E-6" source="node117" target="node119">
+        <meta content=" ip= &lt; -1.0 6.0&gt; dr=1;" datatype="xsd:string" id="meta126" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge127" id="edge127" length="1.00000050002909E-6" source="node117" target="node122">
+        <meta content=" ip= &lt; -1.0 7.0&gt; dr=1;" datatype="xsd:string" id="meta128" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge129" id="edge129" length="0.00815754010350892" source="node112" target="node114">
+        <meta content=" ip= &lt; -2.0 5.0&gt; dr=1;" datatype="xsd:string" id="meta130" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge131" id="edge131" length="0.007536179768348978" source="node112" target="node117">
+        <meta content=" ip= &lt; -2.0 6.5&gt; dr=1;" datatype="xsd:string" id="meta132" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge133" id="edge133" length="0.020008007626312028" source="node107" target="node109">
+        <meta content=" ip= &lt; -3.0 4.0&gt; dr=1;" datatype="xsd:string" id="meta134" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge135" id="edge135" length="0.010061193406679913" source="node107" target="node112">
+        <meta content=" ip= &lt; -3.0 5.75&gt; dr=1;" datatype="xsd:string" id="meta136" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge137" id="edge137" length="0.04954072957565896" source="node93" target="node95">
+        <meta content=" ip= &lt; -4.0 2.5&gt; dr=1;" datatype="xsd:string" id="meta138" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge139" id="edge139" length="0.08765953484617581" source="node93" target="node107">
+        <meta content=" ip= &lt; -4.0 4.875&gt; dr=1;" datatype="xsd:string" id="meta140" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge141" id="edge141" length="0.3058925508684833" source="node88" target="node90">
+        <meta content=" ip= &lt; -5.0 1.0&gt; dr=1;" datatype="xsd:string" id="meta142" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge143" id="edge143" length="0.05577128355545801" source="node88" target="node93">
+        <meta content=" ip= &lt; -5.0 3.6875&gt; dr=1;" datatype="xsd:string" id="meta144" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge148" id="edge148" length="0.02487458484754619" source="node86" target="node88">
+        <meta content=" ip= &lt; -6.0 2.34375&gt; dr=1;" datatype="xsd:string" id="meta149" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+      <edge about="#edge150" id="edge150" length="0.21356113017929157" source="node86" target="node145">
+        <meta content=" ip= &lt; -6.0 8.0&gt; dr=1;" datatype="xsd:string" id="meta151" property="format" xsi:type="nex:LiteralMeta"/>
+      </edge>
+    </tree>
+  </trees>
+</nex:nexml>
